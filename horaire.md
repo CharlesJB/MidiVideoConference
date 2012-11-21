@@ -12,10 +12,17 @@
      <a href="http://www.ngsleaders.org/Events/Calendar/Webinar--Methods-for-RNA-Seq-Data-Analysis/">Methods-for-RNA-Seq-Data-Analysis</a></td>
   </tr>
   <tr>
+     <td>2012-11-28</td>
+  <tr>
      <td>2012-12-05</td>
      <td>Sébastien Boisvert</td>
      <td>
      <a href="http://www.youtube.com/watch?v=6ag8DiOWG1I">"Economics of the Information Revolution" - Jim Whitehurst - TEDxRaleigh 2012</a></td>
   </tr>
-
+  <tr>
+     <td>2012-12-12</td>
+  <tr>
+  <tr>
+     <td>2012-12-19</td>
+  <tr>
 </table>
