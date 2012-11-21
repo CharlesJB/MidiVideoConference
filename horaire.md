@@ -13,6 +13,8 @@
   </tr>
   <tr>
      <td>2012-11-28</td>
+     <td>Maxime Déraspe</td>
+     <td></td>
   <tr>
      <td>2012-12-05</td>
      <td>Sébastien Boisvert</td>
@@ -21,8 +23,12 @@
   </tr>
   <tr>
      <td>2012-12-12</td>
+     <td></td>
+     <td></td>
   <tr>
   <tr>
      <td>2012-12-19</td>
+     <td></td>
+     <td></td>
   <tr>
 </table>
