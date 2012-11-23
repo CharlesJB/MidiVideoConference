@@ -14,7 +14,9 @@
   <tr>
      <td>2012-11-28</td>
      <td>Maxime Déraspe</td>
-     <td></td>
+     <td>
+     <a href="http://www.youtube.com/watch?v=mW12yS1sxfI&feature=gv">"Web Semantic - Google Tech Talks May 25 2007"</a>
+     </td>
   <tr>
      <td>2012-12-05</td>
      <td>Sébastien Boisvert</td>
