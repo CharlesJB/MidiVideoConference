@@ -25,9 +25,9 @@
   </tr>
   <tr>
      <td></td>
-     <td></td>
+     <td>Sébastien Boisvert</td>
      <td>
-       <a href="http://www.ted.com/talks/john_underkoffler_drive_3d_data_with_a_gesture.html" - John Underkoffler: Pointing to the future of UI</a></td>
+       <a href="http://www.ted.com/talks/john_underkoffler_drive_3d_data_with_a_gesture.html" - John Underkoffler: Pointing to the future of UI</a>
      </td>
   <tr>
      <td>2012-12-12</td>
