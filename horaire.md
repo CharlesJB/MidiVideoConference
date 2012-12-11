@@ -33,8 +33,10 @@
   </tr>
   <tr>
      <td>2012-12-12</td>
-     <td></td>
-     <td></td>
+     <td>Charles Joly Beauparlant</td>
+     <td>
+       <a href="http://www.ngsleaders.org/Events/Calendar/Big-Data-Standards-and-the-Potential-Long-Term-Benefits-for-Research-and-Clinical-Development">NGSLeaders - Big Data</a>
+     </td>
   <tr>
   <tr>
      <td>2012-12-19</td>
