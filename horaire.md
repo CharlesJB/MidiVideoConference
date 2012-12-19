@@ -40,7 +40,9 @@
   <tr>
   <tr>
      <td>2012-12-19</td>
-     <td></td>
-     <td></td>
+     <td>Maxime Déraspe</td>
+     <td>
+       <a href="http://www.youtube.com/watch?v=ZDR433b0HJY">Git Introduction</a>
+     </td>
   <tr>
 </table>
