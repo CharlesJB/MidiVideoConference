@@ -45,4 +45,12 @@
        <a href="http://www.youtube.com/watch?v=ZDR433b0HJY">Git Introduction</a>
      </td>
   <tr>
+  <tr>
+     <td>2013-02-13</td>
+     <td>Charles Joly Beauparlant</td>
+     <td>
+       <a href="http://www.youtube.com/watch?v=avsSuKlZSuA">Earth Microbiome Project</a>
+     </td>
+  <tr>
+
 </table>
